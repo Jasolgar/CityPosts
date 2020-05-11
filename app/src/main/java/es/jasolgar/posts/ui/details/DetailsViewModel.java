@@ -55,6 +55,7 @@ public class DetailsViewModel extends BaseViewModel<DetailsNavigator> {
                     postsBody.set(post.getBody());
                     return getDataManager().retrieveUserById(String.valueOf(post.getUserId()));
                 })
+                .observeOn(getSchedulerProvider().io())
                 .flatMap((Function<User, Observable<List<Comment>>>) user -> {
                     mGeo = user.getAddress().getGeo();
 
