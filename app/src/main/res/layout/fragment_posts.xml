@@ -9,7 +9,7 @@
 
         <variable
             name="viewModel"
-            type="es.jasolgar.posts.ui.posts.PostsViewModel" />
+            type="es.jasolgar.cityposts.ui.posts.PostsViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="es.jasolgar.posts.ui.details.CommentItemViewModel"/>
+            type="es.jasolgar.cityposts.ui.details.CommentItemViewModel"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

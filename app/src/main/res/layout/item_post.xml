@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="es.jasolgar.posts.ui.posts.PostsItemViewModel"/>
+            type="es.jasolgar.cityposts.ui.posts.PostsItemViewModel"/>
     </data>
 
         <androidx.cardview.widget.CardView

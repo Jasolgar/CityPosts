@@ -8,7 +8,7 @@
     <data>
         <variable
             name="viewModel"
-            type="es.jasolgar.posts.ui.splash.SplashViewModel" />
+            type="es.jasolgar.cityposts.ui.splash.SplashViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
