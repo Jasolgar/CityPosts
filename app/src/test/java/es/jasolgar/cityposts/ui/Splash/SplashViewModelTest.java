@@ -1,4 +1,4 @@
-package es.jasolgar.cityposts.ui.Splash;
+package es.jasolgar.cityposts.ui.splash;
 
 import org.junit.After;
 import org.junit.Before;
@@ -10,8 +10,6 @@ import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
 
 import es.jasolgar.cityposts.data.DataManager;
-import es.jasolgar.cityposts.ui.splash.SplashNavigator;
-import es.jasolgar.cityposts.ui.splash.SplashViewModel;
 import es.jasolgar.cityposts.utils.rx.TestSchedulerProvider;
 import io.reactivex.Observable;
 import io.reactivex.schedulers.TestScheduler;

@@ -7,7 +7,7 @@ class ApiEndPoint {
 
     public static final String ENDPOINT_COMMENTS = "https://jsonplaceholder.typicode.com/comments";
 
-    public static final String ENDPOINT_RANDOM_IMAGE = "https://i.picsum.photos/id/%s/300/200.jpg";
+    public static final String ENDPOINT_RANDOM_IMAGE = "https://picsum.photos/id/%s/300/200";
 
     public static final String ENDPOINT_RANDOM_AVATAR = "https://api.adorable.io/avatars/face/eyes%s/nose%s/mouth%s/%s";
 }
